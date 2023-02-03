@@ -38,7 +38,7 @@ function App() {
       </Card>
 
     </div>
-  </div><Footer desc="Click al Boton para ver la"> </Footer></>
+  </div><Footer desc="Click al Boton para ver la Discorgrafia"> </Footer></>
   );
 }
 
